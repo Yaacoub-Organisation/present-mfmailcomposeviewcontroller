@@ -16,4 +16,4 @@ UIKit
 
 <br>
 
-![Preview](https://user-images.githubusercontent.com/34966652/125165779-2879fe80-e1a1-11eb-9eea-9e5e50540111.jpeg)
+<img src="https://user-images.githubusercontent.com/34966652/125165779-2879fe80-e1a1-11eb-9eea-9e5e50540111.jpeg" height="640" alt="Preview"/>
