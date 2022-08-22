@@ -1,6 +1,6 @@
 # Present MFMailComposeViewController
 
-This demo project is associated with my article [Present MFMailComposeViewController](https://yaacoub.github.io/articles/swift-tip/present-mfmailcomposeviewcontroller/).
+This demo project is associated with my article [Present MFMailComposeViewController](https://yaacoub.github.io/articles/swift-tip/present-mfmailcomposeviewcontroller).
 
 ### Availability
 
